@@ -24,6 +24,15 @@ The objective of our analysis revolved around knowing the sentiments of people f
 - XG Boost 
 - KNN
 - SVM Classifier for both Count Vector and TF ID Vectorization techniques.
+- 
+### Models and their Test accuracy
+4	Stochastic Gradient Decent	0.862488
+1	Logistic Regression	0.859451
+6	CatBoost	0.852162
+0	Support Vector Machines	0.845603
+2	Random Forest	0.830296
+3	Naive Bayes	0.791667
+5	XGBoost 0.739553
 
 ### PROBLEM FACED:
 
